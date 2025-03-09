@@ -51,3 +51,5 @@ Unfortunately, due to strict anti-scraping mechanisms on both websites, I was un
 
 ---
 **Status:** ❌ Not Completed Successfully
+
+**Can you suggest where I am unable to extract the data or where it might be leaking? This will help me solve these types of problems.**
